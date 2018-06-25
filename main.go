@@ -12,7 +12,7 @@ import (
 
 	"github.com/bitcoinx-project/gominer/algorithms/sia"
 	"github.com/bitcoinx-project/gominer/mining"
-	"github.com/zyjsuper/go-opencl/cl"
+	"github.com/robvanmieghem/go-opencl/cl"
 )
 
 //Version is the released version string of gominer
