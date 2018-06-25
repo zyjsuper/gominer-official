@@ -9,7 +9,7 @@ import (
 
 	"github.com/bitcoinx-project/gominer/clients"
 	"github.com/bitcoinx-project/gominer/mining"
-	"github.com/zyjsuper/go-opencl/cl"
+	"github.com/robvanmieghem/go-opencl/cl"
 )
 
 //miningWork is sent to the mining routines and defines what ranges should be searched for a matching nonce
